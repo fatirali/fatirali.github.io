@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I started off as a Mechanical engineer. Now I'm working towards becoming a Machine Learning Engineer.
 
 ### More Information
 
