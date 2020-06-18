@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I started off as a Mechanical engineer. Now I'm working towards becoming a Machine Learning Engineer.
+I started off as a Mechanical engineer. Now I'm working towards becom
 
 ### More Information
 
